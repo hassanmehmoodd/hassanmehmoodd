@@ -24,33 +24,62 @@ Quality assurance engineer with 5+ years of experience and 3+ years in automatio
 
 **Senior QA Engineer II** · November 2025 – Present · Karachi, Pakistan
 
-- Validate backend APIs in Postman before UI development so integration issues surface early in the release cycle.
-- Run regression, smoke, and exploratory testing, including manual coverage of critical Android and iOS workflows.
-- Use JMeter for performance and load testing to identify bottlenecks under traffic.
-- Support Agile sprint ceremonies and QA planning, and verify defects with developers and product.
+- Caught backend integration defects before UI development by validating APIs in Postman, reducing potential production defects and improving development efficiency by ~20% during release cycles.
+- Reduced release risk across frequent updates with regression, smoke, and exploratory testing, and kept critical Android and iOS workflows reliable with manual testing before production.
+- Improved responsiveness under traffic by using JMeter to find bottlenecks.
+- Raised test coverage and kept sprint features on time by supporting Agile ceremonies and QA planning.
+- Shortened defect turnaround by tracking and verifying bugs with developers and product.
 
-**Tools:** Postman · JMeter · Android · iOS
+**Tools:** Postman · JMeter · Playwright · Cypress · Android · iOS
 
 ### IDENFO
 
-**SQA Engineer** · October 2022 – November 2025 · Karachi, Pakistan
+**QA Engineer** · October 2022 – November 2025 · Karachi, Pakistan
 
-**Idenfo Direct & Enterprise.** Maintained automated command scripts for Enterprise and Direct environments, scheduled through GitHub CI with Slack and email alerts. Validated backend APIs in Postman across environments before the frontend was ready, and used JMeter for performance and load testing inside Agile sprints.
+**Idenfo Direct & Enterprise**
 
-**PingUp.** End-to-end testing of the PingUp mobile investment platform on Android and iOS, covering investment flows, UI consistency, and transaction scenarios. Led regression, smoke, and exploratory cycles, and tracked defects with developers and product managers in Jira.
+- Cut manual QA verification by maintaining scheduled GitHub CI command scripts for Enterprise and Direct, with Slack and email alerts.
+- Caught integration defects before the frontend was ready by validating APIs in Postman across environments, reducing downstream defects in release cycles.
+- Made releases more predictable by aligning QA with Agile sprint milestones.
+- Improved stability under high traffic by using JMeter to find bottlenecks.
 
-**Identity verification.** Tested a KYC identity verification platform across document formats and languages. Coverage included OCR document checks, biometric liveness (matching an ID photo to a live capture), dynamic in-flow instructions, and cross-device, cross-OS runs.
+**PingUp**
 
-**Tools:** Postman · JMeter · GitHub CI · Jira · Android · iOS
+- Protected high-value investment transactions on PingUp, a mobile platform processing PKR 2B+, by testing core flows before production.
+- Reduced release risk on Android and iOS by validating investment flows, UI consistency, and critical transactions, and by leading regression, smoke, and exploratory cycles.
+- Improved defect turnaround by tracking and resolving bugs with developers and product managers in Jira.
+
+**Identity verification**
+
+- Protected KYC flows on a platform supporting 10,000+ global ID types, keeping checks reliable across document formats and languages.
+- Improved OCR accuracy on government-issued IDs, and verified biometric liveness by matching a scanned ID photo to a live capture.
+- Reduced verification failures by checking dynamic instruction flows, and kept results consistent across devices and operating systems.
+
+**Tools:** Postman · JMeter · Playwright · Cypress · GitHub CI · Jira · Android · iOS
+
+### AALOGICS (Pvt) Ltd.
+
+**Software Quality Assurance Engineer** · March 2022 – October 2022 · 8 months · Full-time · Karachi, Pakistan · On-site
+
+- Improved brand positioning and growth by managing websites and streaming accounts.
+- Gave repeatable web-test feedback by automating flows in Cypress.io.
+- Reduced API release risk by testing with Postman.
+- Checked SQL injection exposure with Acunetix scans before release.
+- Checked load and stress behavior with JMeter before release.
+- Matched the test effort to client needs, and got bugs to the right owners by tracking them and assigning them to the relevant team.
+- Strengthened the product by recommending program improvements and corrections.
+
+**Tools:** Cypress · Postman · Acunetix · JMeter
 
 ### Madsgency
 
 **SQA Engineer** · March 2021 – March 2022 · Hybrid / Karachi, Pakistan
 
-- Tested marketing websites, landing pages, and sales funnels on GoHighLevel and ClickFunnels, including lead capture, forms, redirects, and CRM integrations.
-- Validated Google Analytics 4, Google Tag Manager, and Facebook Pixel events and conversion tracking before campaigns went live, and debugged tags with browser developer tools.
-- Ran cross-browser and cross-device testing on Chrome, Firefox, Safari, Edge, and mobile.
-- Checked forms, automation triggers, and email workflows for correct data capture.
+- Cleared marketing websites and landing pages for production by validating end-to-end behavior across browsers and devices.
+- Protected conversion tracking on GoHighLevel and ClickFunnels by verifying lead capture, forms, redirects, and CRM integrations.
+- Gave campaigns accurate analytics before launch by validating GA4, Google Tag Manager, and Facebook Pixel events, and by fixing trigger mismatches found with browser developer tools.
+- Prevented conversion-tracking errors and reduced launch risk by catching edge cases in funnel steps, forms, automation triggers, and email workflows.
+- Kept the UI consistent on Chrome, Firefox, Safari, Edge, and mobile.
 
 **Tools:** GA4 · Google Tag Manager · Facebook Pixel · GoHighLevel · ClickFunnels
 
