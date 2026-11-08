@@ -180,46 +180,6 @@ Kobiton — cloud device platform integration.
 
 ---
 
-<h2 align="center">GitHub Statistics</h2>
-
-<div align="center">
-
-<!-- github-readme-stats.vercel.app returned 503 DEPLOYMENT_PAUSED. Cards below use github-stats-extended.vercel.app, the maintained successor with the same API. -->
-<!-- github-readme-activity-graph.vercel.app returned 402 DEPLOYMENT_DISABLED. The graph uses github-act-graph.rodriaum.com, a public fork of that project. -->
-<!-- Streak card uses streak-stats.demolab.com, the current host of github-readme-streak-stats. -->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=hassanmehmoodd&amp;show_icons=true&amp;hide_border=true&amp;include_all_commits=true&amp;theme=github_dark&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;icon_color=58a6ff&amp;text_color=c9d1d9&amp;ring_color=58a6ff">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=hassanmehmoodd&amp;show_icons=true&amp;hide_border=true&amp;include_all_commits=true&amp;theme=default&amp;bg_color=ffffff&amp;title_color=1B4F72&amp;icon_color=1B4F72&amp;text_color=24292f&amp;ring_color=1B6CA8">
-  <img alt="GitHub stats for hassanmehmoodd" src="https://github-stats-extended.vercel.app/api?username=hassanmehmoodd&amp;show_icons=true&amp;hide_border=true&amp;include_all_commits=true&amp;theme=default&amp;bg_color=ffffff&amp;title_color=1B4F72&amp;icon_color=1B4F72&amp;text_color=24292f&amp;ring_color=1B6CA8">
-</picture>
-&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=hassanmehmoodd&amp;layout=compact&amp;hide_border=true&amp;theme=github_dark&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=hassanmehmoodd&amp;layout=compact&amp;hide_border=true&amp;theme=default&amp;bg_color=ffffff&amp;title_color=1B4F72&amp;text_color=24292f">
-  <img alt="Top languages for hassanmehmoodd" src="https://github-stats-extended.vercel.app/api/top-langs/?username=hassanmehmoodd&amp;layout=compact&amp;hide_border=true&amp;theme=default&amp;bg_color=ffffff&amp;title_color=1B4F72&amp;text_color=24292f">
-</picture>
-
-<br><br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=hassanmehmoodd&amp;hide_border=true&amp;theme=github-dark&amp;background=0D1117">
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=hassanmehmoodd&amp;hide_border=true&amp;theme=default&amp;background=FFFFFF">
-  <img alt="GitHub contribution streak for hassanmehmoodd" src="https://streak-stats.demolab.com?user=hassanmehmoodd&amp;hide_border=true&amp;theme=default&amp;background=FFFFFF">
-</picture>
-
-<br><br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-act-graph.rodriaum.com/graph?username=hassanmehmoodd&amp;hide_border=true&amp;area=true&amp;bg_color=0d1117&amp;color=8b949e&amp;line=58a6ff&amp;point=58a6ff&amp;title_color=c9d1d9">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-act-graph.rodriaum.com/graph?username=hassanmehmoodd&amp;hide_border=true&amp;area=true&amp;bg_color=ffffff&amp;color=57606a&amp;line=1B4F72&amp;point=1B6CA8&amp;title_color=1B4F72">
-  <img width="100%" alt="GitHub activity graph for hassanmehmoodd" src="https://github-act-graph.rodriaum.com/graph?username=hassanmehmoodd&amp;hide_border=true&amp;area=true&amp;bg_color=ffffff&amp;color=57606a&amp;line=1B4F72&amp;point=1B6CA8&amp;title_color=1B4F72">
-</picture>
-
-</div>
-
----
-
 <h2 align="center">Current Focus</h2>
 
 - Scalable Playwright automation
